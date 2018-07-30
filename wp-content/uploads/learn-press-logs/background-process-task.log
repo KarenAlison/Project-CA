@@ -1,0 +1,696 @@
+----------07-30-2018 @ 08:07:04----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6012c40bda
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-30-2018 @ 08:07:02----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6012c40bda
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-30-2018 @ 08:07:01----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6012c40bda
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 18:14:07----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a7586313c8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 18:14:05----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a7586313c8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 18:14:04----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => a7586313c8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 04:59:54----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 423f2820d4
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 04:59:52----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 423f2820d4
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-29-2018 @ 04:59:51----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 423f2820d4
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:15:27----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => d70df2e8e2
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:13:23----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4bf692d409
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:13:22----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4bf692d409
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-28-2018 @ 06:13:21----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4bf692d409
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:37:54----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 521b803338
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:37:53----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 521b803338
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:37:52----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 521b803338
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:10:08----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => f0bdb1b380
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:10:06----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => f0bdb1b380
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------07-25-2018 @ 07:10:04----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => f0bdb1b380
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/var/www/html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

@@ -1,0 +1,145 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://35.204.182.52
+Data file = /var/www/html/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = /var/www/html/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = /var/www/html/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Accessories
+
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Imported
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Navigation Menu - Links - Imported
+Text - Text Widget - Imported
+
+Topbar Left : 
+
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Imported
+
+
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Widget already exists
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Navigation Menu - Links - Widget already exists
+Text - Text Widget - Widget already exists
+
+Topbar Left : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Widget already exists
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Links - Widget already exists
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
